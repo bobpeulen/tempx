@@ -37,3 +37,5 @@ Add your name to the footer in src/components/Footer.astro
 Check out the included blog posts in src/content/blog/
 Customize the blog post page layout in src/layouts/BlogPost.astro
 ```
+
+http://130.61.100.26:4321/
