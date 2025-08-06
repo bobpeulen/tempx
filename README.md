@@ -1,6 +1,6 @@
 # tempx
 
-Deploy Astro, deploy Gitlab. Run.
+Deploy Astro + Starlight, deploy Gitlab. Run.
 
 ```
 sudo dnf module list nodejs
@@ -11,6 +11,9 @@ node -v
 npm -v
 ```
 
+- Choose Blog style. Yes on Git
+
 ```
 npm create astro@latest
+npx astro add starlight
 ```
