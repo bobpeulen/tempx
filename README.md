@@ -14,8 +14,7 @@ npm -v
 - Choose Blog style. Yes on Git
 
 ```
-npm create astro@latest
-npx astro add starlight
+npm create astro@latest -- --template starlight
 ```
 
 ```
