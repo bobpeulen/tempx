@@ -27,3 +27,13 @@ Run
 ```
 npm run dev -- --host
 ```
+Notes
+This template comes with a few integrations already configured in your astro.config.mjs file. You can customize your setup with Astro Integrations to add tools like Tailwind, React, or Vue to your project.
+
+Here are a few ideas on how to get started with the template:
+
+Edit this page in src/pages/index.astro
+Edit the site header items in src/components/Header.astro
+Add your name to the footer in src/components/Footer.astro
+Check out the included blog posts in src/content/blog/
+Customize the blog post page layout in src/layouts/BlogPost.astro
