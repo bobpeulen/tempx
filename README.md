@@ -17,3 +17,13 @@ npm -v
 npm create astro@latest
 npx astro add starlight
 ```
+
+```
+sudo firewall-cmd --permanent --add-port=4321/tcp
+sudo firewall-cmd --reload
+```
+
+Run
+```
+npm run dev -- --host
+```
