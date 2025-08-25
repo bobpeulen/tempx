@@ -28,6 +28,8 @@ npm run dev -- --host
 ```
 Notes
 
+- http://130.61.100.26:4321
+
 ```
 Here are a few ideas on how to get started with the template:
 
